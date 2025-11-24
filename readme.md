@@ -43,7 +43,7 @@ Debug mode is currently enabled (debug=True)
 cd frontend/
 python -m http.server
 ```
-Then go to http://localhost:5055 on your favorite browser
+Then go to http://localhost:8000 on your favorite browser
 
 
 ## Screenshots
